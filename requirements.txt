@@ -14,7 +14,7 @@ idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
-numpy==1.20.1
+numpy
 rfc3986==1.4.0
 sniffio==1.2.0
 Werkzeug==1.0.1
